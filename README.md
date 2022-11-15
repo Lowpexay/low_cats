@@ -1,6 +1,6 @@
 # Low Cats!
 
-Projeto final da Imersão React
+Só gatos
 
 | :computer: Vitrine.Dev |  Lowpexay   |
 | -------------  | --- |
